@@ -15,11 +15,12 @@ This project combined two interests of mine : movies and front-end development. 
 
 ## Challenges 
 
-- 
-
+- Inception is a science-fiction heist film and extracting the scientific concepts was the most fun and challenging part. Finding supporting evidence was demanding work. The answers to questions about topics like dreaming, life and death are less scientific and more philosophical. However, thanks to Google Scholar and Youtube videos, I was able to find the relevant material for the blogs.
 
 
 ## Key Learnings from this Project 
+
+- 
 
 
 
